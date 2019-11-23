@@ -5,6 +5,7 @@ HELP.md
 build/
 !**/src/main/**
 !**/src/test/**
+artifacts/app-deadline/
 
 ### STS ###
 .apt_generated
